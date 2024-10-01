@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![screenshot flutter_application_praktikum](assets/image.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
